@@ -9,21 +9,22 @@
   </ul>
 </div>
 
+<picture> <img align="center" src="https://img.freepik.com/vector-premium/codigo-programacion-fondo-codificacion-o-hacker-icono-codigo-programacion-hecho-codigo-binario_127544-815.jpg?semt=ais_hybrid&w=740" width = 300px></picture>
 
 <!--About Me-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí
 
-<picture> <img align="right" src="https://img.freepik.com/vector-premium/codigo-programacion-fondo-codificacion-o-hacker-icono-codigo-programacion-hecho-codigo-binario_127544-815.jpg?semt=ais_hybrid&w=740" width = 300px></picture>
+<p>
+Soy Juan Cruz Diaz Rossi, estudiante de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (San Rafael). Actualmente me desempeño en el área de desarrollo de software
+diseñando y programando soluciones tanto en el Backend como en el Frontend. Me apasiona el funcionamiento de la tecnología. Tengo interés en las redes de datos, la ciberseguridad
+y el hacking ético.
+</p>
 
-- :school: Estudio Ingeniería en Sistemas de Información en la [UTN-FRSR](https://www.frsr.utn.edu.ar)
-- :technologist: Actualmente me desempeño en **Desarrollo de software (Frontend & Backend)**
-- :boom: Podes visitar mi sitio web para ver mis trabajos [proximamente](#)
-- :email: Contáctame si me necesitas [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=JuanCruz&amp;color=EA4335&amp;style=flat-square)](mailto:djuancruz21@gmail.com)
 
 <br>
 
-## 🛠️ Mis habilidades
+## 🛠️ Tecnologías
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Lenguajes de Programación
 
@@ -54,7 +55,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software y herramientas
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software y Herramientas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
@@ -72,23 +73,34 @@
 
 <br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Estadísticas de Github
+### <picture> :e-mail: </picture> Contacto
+
+<br>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Mis Estadísticas
 
 <!--- stats & Trophy (start) -->
 
 <p align="left">
   <!--- stats (start) -->
-<table align="left">
+<table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td width="100%" align="center">
   
   ![juanku21 github stats](https://github-readme-stats.vercel.app/api?username=juanku21&icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+</td>
+</tr>
+<tr border="none">
+<td width="100%" align="center">
+  
   ![juanku21 github streak](https://github-readme-streak-stats.herokuapp.com/?user=juanku21&theme=radical&include_all_commits=true&count_private=true)
 
 </td>
+</tr>
 
-
-<td width="50%" align="center">
+<tr>
+  <td width="100%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=juanku21&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 
@@ -97,15 +109,6 @@
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=juanku21&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-
-<!--- trophy (end) -->
 </p>        
 <!--- stats (end) -->
 
