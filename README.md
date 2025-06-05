@@ -18,7 +18,7 @@
 
 - :school: Estudio Ingeniería en Sistemas de Información en la [UTN-FRSR](https://www.frsr.utn.edu.ar)
 - :technologist: Actualmente me desempeño en **Desarrollo de software (Frontend & Backend)**
-- :boom: Podes visitar mi sitio web para ver mis trabajos [proximamente]()
+- :boom: Podes visitar mi sitio web para ver mis trabajos [proximamente](#)
 - :email: Contáctame si me necesitas [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=JuanCruz&amp;color=EA4335&amp;style=flat-square)](mailto:djuancruz21@gmail.com)
 
 <br>
@@ -82,15 +82,15 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ElioChiu&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
+  ![juanku21 github stats](https://github-readme-stats.vercel.app/api?username=juanku21&icons=true&theme=radical&count_private=true&include_all_commits=true)
+  ![juanku21 github streak](https://github-readme-streak-stats.herokuapp.com/?user=juanku21&theme=radical&include_all_commits=true&count_private=true)
+
 </td>
 
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=juanku21&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 
   </td>
 </tr>
@@ -99,28 +99,15 @@
 
 <!--- trophy (start) -->
 
-<div align=left>
+<div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ElioChiu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=juanku21&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 
-<!--- trophy (start) -->
+<!--- trophy (end) -->
 </p>        
 <!--- stats (end) -->
 
-<br>
-
-<!--profile visit count-->
-
-<div align="center">
-
-
-[![](https://visitcount.itsvg.in/api?id=ElioChiu&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-
-</div>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
------------
