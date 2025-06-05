@@ -9,9 +9,9 @@
   </ul>
 </div>
 
-<picture>
-<img align="center" src="https://img.freepik.com/vector-premium/codigo-programacion-fondo-codificacion-o-hacker-icono-codigo-programacion-hecho-codigo-binario_127544-815.jpg?semt=ais_hybrid&w=740" width = 500px>
-</picture>
+<p aling='center'>
+  <img align="center" src="https://img.freepik.com/vector-premium/codigo-programacion-fondo-codificacion-o-hacker-icono-codigo-      programacion-hecho-codigo-binario_127544-815.jpg?semt=ais_hybrid&w=740" width = 500px>
+</p>
 
 <br>
 
@@ -22,7 +22,7 @@
 
 <p aling="left">
   Soy Juan Cruz Diaz Rossi, estudiante de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (San Rafael). 
-  Actualmente me desempeño en el área de desarrollo de software diseñando y programando soluciones tanto en el Backend como en el Frontend. 
+  Actualmente me desempeño en el rubro del desarrollo de software diseñando y programando soluciones tanto en el Backend como en el Frontend. 
   Me apasiona el funcionamiento de la tecnología. Tengo interés en las redes de datos, la ciberseguridad y el hacking ético.
 </p>
 
