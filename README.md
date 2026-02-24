@@ -22,8 +22,8 @@
 
 <p align="left">
   Soy Juan Cruz Diaz Rossi, estudiante avanzado de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (San Rafael). 
-  Actualmente me desempeño en el rubro del desarrollo de software diseñando y programando soluciones tanto en el Backend como en el Frontend. 
-  Me apasiona el funcionamiento de la tecnología. Tengo interés en el emprendimiento tecnológico y en la ciberseguridad.
+  Actualmente me desempeño en el rubro del desarrollo de software, diseñando y programando soluciones como desarrollador Full Stack, 
+  con mayor orientación al Backend. Me apasiona el funcionamiento de la tecnología. Tengo interés en el emprendimiento tecnológico y en la ciberseguridad.
 </p>
 
 <p align="left">
